@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **Python Language**
 
-- 👨‍💻 All of my projects are available at [https://deepesh-portfolio-gules.vercel.app/](https://deepesh-portfolio-gules.vercel.app/)
 
-- 💬 Ask me about **Web-Development**
+- 💬 Ask me about **Web-Development | LLM Tools - Prompt Engineering | SQL Database Management**
 
 - 📫 How to reach me **dada.deepesh@gmail.com**
 
